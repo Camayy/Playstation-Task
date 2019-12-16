@@ -1,0 +1,24 @@
+[1613655] ------------------------------------
+[1613655] Starting Test...
+[1613656] Test Start Time: 12/16/2019 1:36:56 AM
+[1613703] Navigated to: https://playstation.com/en-gb/
+[1613704] Element: a was found
+[1613705] Clicked chevron button
+[1613706] Element: div was found
+[1613707] Element Clicked
+[1613713] Clicked PS Plus tile
+[1613713] Element: h3 was found
+[1613714] Element: input was found
+[1613714] Set text into text box
+[1613715] Set text into text box
+[1613715] Set text into text box
+[1613716] Element Clicked
+[1613716] Element Clicked
+[1613717] Element: img was found
+[1613718] Verified PSPlus Page
+[1613719] Found page title: Apex Legends | PS4 Games | PlayStation
+[1613720] Page verified with title
+[1613721] Finishing Test...
+[1613722] Test Finish Time: 12/16/2019 1:37:22 AM
+[1613722] Total Test time = -0.00718241580555556
+[1613723] ------------------------------------

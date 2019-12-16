@@ -1,0 +1,1 @@
+File created: 12/15/2019 8:42:37 PM------------------------------------ -,12/15/2019 8:42:37 PMStarting Test... -,12/15/2019 8:42:37 PMTest Start Time: 12/15/2019 8:42:37 PM -,12/15/2019 8:42:37 PMNavigated to: https://playstation.com/en-gb/ -,12/15/2019 8:42:42 PMElement: a was found -,12/15/2019 8:42:56 PMElement Clicked -,12/15/2019 8:43:07 PM

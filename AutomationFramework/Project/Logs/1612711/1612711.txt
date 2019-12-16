@@ -1,0 +1,8 @@
+[1612711] ------------------------------------
+[1612711] Starting Test...
+[1612711] Test Start Time: 12/16/2019 1:27:11 AM
+[1612715] Navigated to: https://playstation.com/en-gb/
+[1612716] Element Element (id = 67d00a58-1224-4d76-89ed-afd2395bcfec) was not found on the page
+[1612716] ERR: Could not click chevron: System.Exception: Element was not displayed on page
+   at AutomationFramework.Extensions.WebElementExtension.Exists(IWebElement element) in C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\Extensions\WebElementExtension.cs:line 23
+   at SpecflowProject.Pages.PlaystationHomePage.ClickChevronButton() in C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\Pages\PlaystationHomePage.cs:line 51

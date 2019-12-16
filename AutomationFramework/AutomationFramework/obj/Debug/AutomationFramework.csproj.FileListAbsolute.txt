@@ -1,0 +1,38 @@
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.pdb
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csprojAssemblyReference.cache
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CoreCompileInputs.cache
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CopyComplete
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\AutomationFramework.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\BoDi.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\Cucumber.Messages.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\Gherkin.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\Google.Protobuf.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\System.ValueTuple.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\Utf8Json.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\BoDi.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\Google.Protobuf.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\Google.Protobuf.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\nunit.framework.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\System.ValueTuple.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\Utf8Json.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.csproj.CopyComplete
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\obj\Debug\AutomationFramework.pdb

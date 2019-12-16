@@ -1,0 +1,39 @@
+[1612754] ------------------------------------
+[1612754] Starting Test...
+[1612755] Test Start Time: 12/16/2019 1:27:55 AM
+[1612802] Navigated to: https://playstation.com/en-gb/
+[1612803] Element: a was found
+[1612803] ERR: ElementElement (id = 728f07ee-8408-4db5-b6be-46e93f9d2b6c) could not be clicked System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a class="cell double-arrow-down more-link" href="javascript:void(0);"></a> is not clickable at point (50, 834). Other element would receive the click: <p class="action">...</p>
+  (Session info: chrome=78.0.3904.108)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at OpenQA.Selenium.Support.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at AutomationFramework.Extensions.WebElementExtension.Click(IWebElement element) in C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\AutomationFramework\Extensions\WebElementExtension.cs:line 31
+[1612804] Clicked chevron button
+[1612804] Element: div was found
+[1612805] Element Clicked
+[1612805] Clicked PS Plus tile
+[1612810] Element: h3 was found
+[1612810] Element: input was found
+[1612810] Set text into text box
+[1612811] Set text into text box
+[1612811] Set text into text box
+[1612812] Element Clicked
+[1612812] Element Clicked
+[1612813] Element: img was found
+[1612813] Verified PSPlus Page
+[1612814] Found page title: Apex Legends | PS4 Games | PlayStation
+[1612814] Page verified with title
+[1612815] Finishing Test...
+[1612815] Test Finish Time: 12/16/2019 1:28:15 AM
+[1612816] Total Test time = -0.00575966927777778
+[1612816] ------------------------------------

@@ -1,0 +1,72 @@
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\obj\Debug\SpecflowProject.csprojAssemblyReference.cache
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\obj\Debug\SpecflowProject.csproj.CoreCompileInputs.cache
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\NUnit3.TestAdapter.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\nunit.engine.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\nunit.engine.api.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Mono.Cecil.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Mono.Cecil.Pdb.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Mono.Cecil.Mdb.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Mono.Cecil.Rocks.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Project.dll.config
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Project.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Project.pdb
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\AutomationFramework.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\BoDi.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Gherkin.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Newtonsoft.Json.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\nunit.framework.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\System.ValueTuple.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\TechTalk.SpecFlow.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Utf8Json.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\WebDriver.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\WebDriver.Support.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\AutomationFramework.pdb
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\BoDi.pdb
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Newtonsoft.Json.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\nunit.framework.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\System.ValueTuple.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\TechTalk.SpecFlow.pdb
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\Utf8Json.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\WebDriver.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\bin\Debug\WebDriver.Support.xml
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\obj\Debug\SpecflowProject.csproj.CopyComplete
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\obj\Debug\Project.dll
+C:\onedrive\cameron.sharratt\Documents\AutomationFramework\Project\obj\Debug\Project.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\nunit.engine.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\nunit.engine.api.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Mono.Cecil.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\App.config
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Project.dll.config
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Project.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Project.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\AutomationFramework.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\BoDi.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Gherkin.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\nunit.framework.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\System.ValueTuple.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Utf8Json.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\WebDriver.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\WebDriver.Support.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\AutomationFramework.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\BoDi.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\nunit.framework.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\System.ValueTuple.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\Utf8Json.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\WebDriver.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\bin\Debug\WebDriver.Support.xml
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\obj\Debug\SpecflowProject.csprojAssemblyReference.cache
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\obj\Debug\SpecflowProject.csproj.CopyComplete
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\obj\Debug\Project.dll
+C:\Users\Cam\Documents\Source\Playstation project\AutomationFramework\Project\obj\Debug\Project.pdb
